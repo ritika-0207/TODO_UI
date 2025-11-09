@@ -9,5 +9,5 @@ import { RouterOutlet } from '@angular/router';
   styleUrl: './app.component.scss'
 })
 export class AppComponent {
-  title = 'RITIKA cloud solution architect';
+  title = 'RITIKA & KUSH cloud solution architect';
 }
